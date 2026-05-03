@@ -87,16 +87,13 @@ This project explores:
 
 ## 🧠 Key Takeaways
 ### Operational efficiency does not guarantee rider satisfaction.
-Integrating rider experience into performance measurement can lead to better transit planning decisions.
+> Integrating rider experience into performance measurement can lead to better transit planning decisions.
 
 ---
 
-## 🧪 How to Run
+## 🧪 How to Run </> bash
+> pip install -r requirements.txt
 
-- </> bash
-- pip install -r requirements.txt
-
-### Open the notebook:
-- </> bash
-- jupyter notebook notebook/saskatoon_transit_experience_kpi.ipynb
+### Open the notebook: 
+> jupyter notebook notebook/saskatoon_transit_experience_kpi.ipynb
 
