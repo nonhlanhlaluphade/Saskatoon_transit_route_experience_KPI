@@ -1,7 +1,7 @@
 # 🚌 Saskatoon Transit: Experience vs Operational Performance 
 
 # 🔎 Problem 
-Transit agencies typically evaluate performance using operational metrics such as service frequency and reliability. However, these metrics may not fully capture the *** lived rider experience ***.
+Transit agencies typically evaluate performance using operational metrics such as service frequency and reliability. However, these metrics may not fully capture the ***lived rider experience***.
 
 This project explores:
 > **Do routes that perform well operationally also deliver a good rider experience?**
