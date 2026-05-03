@@ -56,6 +56,12 @@ This project explores:
 
 ---
 
+## 🖼️ Example Visualizations
+![KPI Comparison](images/scatter_kpi.png)
+![Rank Shift](images/rank_shift.png)
+
+---
+
 ## 🚧 Example Insight
 
 > “Route 17 ranks highest operationally but drops significantly when accounting for rider experience, indicating that increasing service alone may not resolve dissatisfaction.”
@@ -79,26 +85,18 @@ This project explores:
 
 ---
 
-## 🧪 How to Run
-
-</> bash
-pip install -r requirements.txt
-
-### Open the notebook:
-</> bash
-jupyter notebook notebook/saskatoon_transit_experience_kpi.ipynb
-
----
-
-## 🖼️ Example Visualizations
-![KPI Comparison](images/scatter_kpi.png)
-![Rank Shift](images/rank_shift.png)
-
----
-
 ## 🧠 Key Takeaways
 ### Operational efficiency does not guarantee rider satisfaction.
 Integrating rider experience into performance measurement can lead to better transit planning decisions.
 
+---
 
+## 🧪 How to Run
+
+- </> bash
+- pip install -r requirements.txt
+
+### Open the notebook:
+- </> bash
+- jupyter notebook notebook/saskatoon_transit_experience_kpi.ipynb
 
